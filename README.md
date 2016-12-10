@@ -1,4 +1,7 @@
 # MI-Panels
+
+UPDATE 10/12/2016: Apologies for the delay, the files will be available soon.
+
 Illustrator .ai files for Mutable Instruments alternative panels.
 
 These files are shared under the same CC-BY-SA-3.0 Creative Commons licence in compliance with the original work by [Mutable Instruments](https://github.com/pichenettes/eurorack). The original Illustrator drill / cut layer was used in the designs, all other artwork removed with new artwork derived by Gareth Johnson (Oscillosaurus). 
